@@ -7,6 +7,7 @@
 [This is a link to Google!](http://google.com)
 
 Here is an image of a coding cat:
+
 ![Image of a coding cat](https://brokelyn.com/app/uploads/2014/07/cat-computer.jpg)
 
 Here's a table:
