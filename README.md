@@ -24,4 +24,3 @@ Here is some **bold** and some *italicized* text.
 ## H2 is a little smaller
 
 ### H3 is smaller than H2
-
