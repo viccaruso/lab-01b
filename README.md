@@ -6,8 +6,8 @@
 
 [This is a link to Google!](http://google.com)
 
-Here is a GIF of a coding cat:
-![GIF of a coding cat](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+Here is an image of a coding cat:
+![Image of a coding cat](https://brokelyn.com/app/uploads/2014/07/cat-computer.jpg)
 
 Here's a table:
 Cost | Item
